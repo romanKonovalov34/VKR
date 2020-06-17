@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.fontWeightBold": "normal",
+    "markdown.preview.fontSize": 12,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontFamily": "Consolas",
+    "python.pythonPath": "D:\\anaconda3\\envs\\myenv\\python.exe"
+}
